@@ -17,7 +17,7 @@ Two shipped projects: a personal agent in live beta, and an open-source tool tha
     <td width="50%" valign="top">
       <img src="assets/buboo.webp" width="100%" alt="Buboo interface: a check-in conversation where the agent notices two missed weeks and proposes a new plan, next to a goal timeline marking progress, a deviation, and the adjustment">
       <h3>Buboo</h3>
-      <p><b>Long-term Personal Agent</b><br/><code>Live Beta</code>&nbsp;<code>Closed Source</code></p>
+      <p><b>Long-term Personal Agent</b><br/><code>Live&nbsp;Beta</code> <code>Closed&nbsp;Source</code></p>
       <p>An AI agent for long-term goals, evolving plans, and proactive assistance.</p>
       <ul>
         <li>Turns a goal into a staged plan and keeps track of progress from everyday check-ins.</li>
@@ -29,7 +29,7 @@ Two shipped projects: a personal agent in live beta, and an open-source tool tha
     <td width="50%" valign="top">
       <img src="assets/lulicv.webp" width="100%" alt="LuliCV workspace: an agent chat removes a header label while the web editor shows a revision history where your edits and the agent's edits interleave">
       <h3>LuliCV · 履栗</h3>
-      <p><b>Agent-native Resume Workspace</b><br/><code>Open Source</code>&nbsp;<code>MIT</code></p>
+      <p><b>Agent-native Resume Workspace</b><br/><code>Open&nbsp;Source</code> <code>MIT</code></p>
       <p>A local-first resume workspace that lets users and AI agents edit, review, and export together.</p>
       <ul>
         <li>Extends existing agents through a Skill and CLI instead of shipping its own chatbot.</li>
@@ -48,23 +48,27 @@ Two shipped projects: a personal agent in live beta, and an open-source tool tha
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="assets/icon-agents.svg" width="28" height="28" alt="">
-      <p><b>Agent Systems</b></p>
-      <p>Workflows, tools, state management, and reliable execution.</p>
-      <p><sub>An agent earns trust by staying predictable over many steps, not by one impressive answer.</sub></p>
+    <td width="56" align="center" valign="top"><img src="assets/icon-agents.svg" width="28" height="28" alt=""></td>
+    <td valign="top">
+      <b>Agent Systems</b><br/>
+      Workflows, tools, state management, and reliable execution.<br/>
+      <sub>An agent earns trust by staying predictable over many steps, not by one impressive answer.</sub>
     </td>
-    <td width="33%" valign="top">
-      <img src="assets/icon-memory.svg" width="28" height="28" alt="">
-      <p><b>Context &amp; Memory</b></p>
-      <p>Long-term context, retrieval, and continuity.</p>
-      <p><sub>What to keep, what to let go, and when to bring something back into the conversation.</sub></p>
+  </tr>
+  <tr>
+    <td width="56" align="center" valign="top"><img src="assets/icon-memory.svg" width="28" height="28" alt=""></td>
+    <td valign="top">
+      <b>Context &amp; Memory</b><br/>
+      Long-term context, retrieval, and continuity.<br/>
+      <sub>What to keep, what to let go, and when to bring something back into the conversation.</sub>
     </td>
-    <td width="33%" valign="top">
-      <img src="assets/icon-evaluation.svg" width="28" height="28" alt="">
-      <p><b>Product &amp; Evaluation</b></p>
-      <p>Human-AI interaction, quality, and real-world outcomes.</p>
-      <p><sub>Judged by whether people actually get further, and where they should stay in control.</sub></p>
+  </tr>
+  <tr>
+    <td width="56" align="center" valign="top"><img src="assets/icon-evaluation.svg" width="28" height="28" alt=""></td>
+    <td valign="top">
+      <b>Product &amp; Evaluation</b><br/>
+      Human-AI interaction, quality, and real-world outcomes.<br/>
+      <sub>Judged by whether people actually get further, and where they should stay in control.</sub>
     </td>
   </tr>
 </table>
