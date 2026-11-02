@@ -1,0 +1,76 @@
+<h1>Hey, I'm Ari. 👋</h1>
+
+<h3>Building thoughtful AI products &amp; agents.</h3>
+
+I explore how AI agents can become useful, reliable products — from product ideas and interaction design to agent architecture, engineering, and evaluation. I like taking an idea all the way through: shaping the interaction, designing the system behind it, then testing and shipping it.
+
+<sub>AI AGENTS &nbsp;·&nbsp; PRODUCT THINKING &nbsp;·&nbsp; CONTEXT &amp; MEMORY &nbsp;·&nbsp; HUMAN-AI COLLABORATION &nbsp;·&nbsp; EVALUATION</sub>
+
+<br/>
+
+## Selected Projects
+
+Two shipped projects: a personal agent in live beta, and an open-source tool that plugs into the agents people already use.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/buboo.webp" width="100%" alt="Buboo interface: a check-in conversation where the agent notices two missed weeks and proposes a new plan, next to a goal timeline marking progress, a deviation, and the adjustment">
+      <h3>Buboo</h3>
+      <p><b>Long-term Personal Agent</b><br/><code>Live Beta</code>&nbsp;<code>Closed Source</code></p>
+      <p>An AI agent for long-term goals, evolving plans, and proactive assistance.</p>
+      <ul>
+        <li>Turns a goal into a staged plan and keeps track of progress from everyday check-ins.</li>
+        <li>Notices when things drift and proposes a revised plan — changes apply only after you confirm.</li>
+        <li>Runs periodic reviews and watches for outside updates that matter to the goal.</li>
+      </ul>
+      <p><sub>Agent Runtime · Long-term Memory · Context Engineering · Human-in-the-loop · Proactive Agent</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/lulicv.webp" width="100%" alt="LuliCV workspace: an agent chat removes a header label while the web editor shows a revision history where your edits and the agent's edits interleave">
+      <h3>LuliCV · 履栗</h3>
+      <p><b>Agent-native Resume Workspace</b><br/><code>Open Source</code>&nbsp;<code>MIT</code></p>
+      <p>A local-first resume workspace that lets users and AI agents edit, review, and export together.</p>
+      <ul>
+        <li>Extends existing agents through a Skill and CLI instead of shipping its own chatbot.</li>
+        <li>One shared workspace: every human or agent edit is versioned and can be undone.</li>
+        <li>Real A4 pagination — preview, layout checks, and PDF export share one renderer.</li>
+      </ul>
+      <p><sub>Agent Skills · CLI · Local-first · Human-AI Collaboration · Structured Editing</sub></p>
+      <p><a href="https://github.com/AriLabo/LuliCV">View repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## What I'm Interested In
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="assets/icon-agents.svg" width="28" height="28" alt="">
+      <p><b>Agent Systems</b></p>
+      <p>Workflows, tools, state management, and reliable execution.</p>
+      <p><sub>An agent earns trust by staying predictable over many steps, not by one impressive answer.</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/icon-memory.svg" width="28" height="28" alt="">
+      <p><b>Context &amp; Memory</b></p>
+      <p>Long-term context, retrieval, and continuity.</p>
+      <p><sub>What to keep, what to let go, and when to bring something back into the conversation.</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/icon-evaluation.svg" width="28" height="28" alt="">
+      <p><b>Product &amp; Evaluation</b></p>
+      <p>Human-AI interaction, quality, and real-world outcomes.</p>
+      <p><sub>Judged by whether people actually get further, and where they should stay in control.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<sub>AriLabo · Ideas, experiments &amp; open-source projects.</sub>
