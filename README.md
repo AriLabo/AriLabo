@@ -1,8 +1,10 @@
+<p align="right"><sub><b>English</b> &nbsp;·&nbsp; <a href="README.zh-CN.md">简体中文</a></sub></p>
+
 <h1>Hey, I'm Ari. 👋</h1>
 
 <h3>Building thoughtful AI products &amp; agents.</h3>
 
-I explore how AI agents can become useful, reliable products — from product ideas and interaction design to agent architecture, engineering, and evaluation. I like taking an idea all the way through: shaping the interaction, designing the system behind it, then testing and shipping it.
+I explore how AI agents can become useful, reliable products — from product ideas and interaction design to agent architecture, engineering, and evaluation.
 
 <sub>AI AGENTS &nbsp;·&nbsp; PRODUCT THINKING &nbsp;·&nbsp; CONTEXT &amp; MEMORY &nbsp;·&nbsp; HUMAN-AI COLLABORATION &nbsp;·&nbsp; EVALUATION</sub>
 
@@ -15,7 +17,7 @@ Two shipped projects: a personal agent in live beta, and an open-source tool tha
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/buboo.webp" width="100%" alt="Buboo interface: a check-in conversation where the agent notices two missed weeks and proposes a new plan, next to a goal timeline marking progress, a deviation, and the adjustment">
+      <img src="assets/buboo.webp" width="100%" alt="Buboo: a check-in conversation where the agent proposes a revised plan, next to the goal timeline showing progress, a deviation, and the adjustment">
       <h3>Buboo</h3>
       <p><b>Long-term Personal Agent</b><br/><code>Live&nbsp;Beta</code> <code>Closed&nbsp;Source</code></p>
       <p>An AI agent for long-term goals, evolving plans, and proactive assistance.</p>
@@ -27,7 +29,7 @@ Two shipped projects: a personal agent in live beta, and an open-source tool tha
       <p><sub>Agent Runtime · Long-term Memory · Context Engineering · Human-in-the-loop · Proactive Agent</sub></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/lulicv.webp" width="100%" alt="LuliCV workspace: an agent chat removes a header label while the web editor shows a revision history where your edits and the agent's edits interleave">
+      <img src="assets/lulicv.webp" width="100%" alt="LuliCV: an agent chat fixes the page layout and passes the layout check, in front of three resume templates filled with sample data">
       <h3>LuliCV · 履栗</h3>
       <p><b>Agent-native Resume Workspace</b><br/><code>Open&nbsp;Source</code> <code>MIT</code></p>
       <p>A local-first resume workspace that lets users and AI agents edit, review, and export together.</p>
